@@ -1,5 +1,8 @@
 # ToDo List App
 This is a simple ToDo app built with Vanilla.js that allows you to keep track of tasks that needs to be done. The app is deployed to Netlify and can be accessed via this [link](https://jesstodoapp.netlify.app/).
+```
+https://jesstodoapp.netlify.app/
+```
 
 ## Features
 - Add tasks to the list
