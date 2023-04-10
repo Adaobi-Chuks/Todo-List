@@ -26,4 +26,4 @@ To mark a task as complete, click on the checkbox next to the task name.
 To delete a task, click on the X button next to the task name.
 
 ## Credits
-This app was built by [Chuks-Aginam Adaobi].
+This app was built by Chuks-Aginam Adaobi.
