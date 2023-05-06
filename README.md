@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>ToDo List App</title>
   </head>
   <body>
     <h1>ToDo List App</h1>
